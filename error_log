@@ -1,0 +1,32 @@
+[13-Feb-2018 12:04:15 UTC] PHP Warning:  require_once(/home/craftedi/public_html/campers/public/index.php): failed to open stream: No such file or directory in /home/craftedi/public_html/campers/index.php on line 21
+[13-Feb-2018 12:04:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/craftedi/public_html/campers/public/index.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/craftedi/public_html/campers/index.php on line 21
+[13-Feb-2018 12:38:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\SeasonsPrices' not found in /home/craftedi/public_html/campers/app/Http/Controllers/PagesController.php on line 100
+[14-Feb-2018 04:59:53 UTC] PHP Parse error:  syntax error, unexpected '')); ?>"/>&nbsp;</li></a>' (T_CONSTANT_ENCAPSED_STRING) in /home/craftedi/public_html/campers/storage/framework/views/acc43e5f1c159cb00f46c821cc4421d9517d5a52.php on line 46
+[14-Feb-2018 06:02:41 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:04:08 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:04:15 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:04:34 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:08:53 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:09:31 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:10:31 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:13:22 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 06:16:01 UTC] PHP Fatal error:  Cannot redeclare App\BookingOrders::$other_contacts in /home/craftedi/public_html/campers/app/BookingOrders.php on line 35
+[14-Feb-2018 11:23:38 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Categories' not found in /home/craftedi/public_html/campers/app/Http/Controllers/PagesController.php on line 553
+[15-Feb-2018 06:51:47 UTC] PHP Fatal error:  Call to a member function diff() on integer in /home/craftedi/public_html/campers/app/Http/Controllers/PagesController.php on line 569
+[15-Feb-2018 06:52:26 UTC] PHP Fatal error:  Call to a member function diff() on integer in /home/craftedi/public_html/campers/app/Http/Controllers/PagesController.php on line 569
+[15-Feb-2018 06:53:16 UTC] PHP Fatal error:  Call to a member function diff() on string in /home/craftedi/public_html/campers/app/Http/Controllers/PagesController.php on line 569
+[15-Feb-2018 08:21:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/craftedi/public_html/campers/storage/framework/views/a55276d79d4de730ddb2cadc290cdc37a644b723.php on line 251
+[15-Feb-2018 10:23:29 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:25:49 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:30:26 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:35:34 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:36:06 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:37:45 UTC] PHP Fatal error:  Call to a member function move() on string in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 112
+[15-Feb-2018 10:40:48 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 87
+[15-Feb-2018 10:52:08 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 176
+[15-Feb-2018 10:54:19 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 176
+[15-Feb-2018 11:01:01 UTC] PHP Fatal error:  Call to a member function getClientOriginalExtension() on null in /home/craftedi/public_html/campers/app/Http/Controllers/Admin/Vehicles/VehiclesController.php on line 87
+[15-Feb-2018 11:39:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/craftedi/public_html/campers/storage/framework/views/e86c42002359e1c57ea2f4978161845060378ea8.php on line 257
+[15-Feb-2018 13:17:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/craftedi/public_html/campers/storage/framework/views/a0ca8266f997425963d71eec5f73a7c1ab8c7fd7.php on line 75
+[15-Feb-2018 13:17:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/craftedi/public_html/campers/storage/framework/views/a0ca8266f997425963d71eec5f73a7c1ab8c7fd7.php on line 75
+[15-Feb-2018 13:20:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/craftedi/public_html/campers/storage/framework/views/a0ca8266f997425963d71eec5f73a7c1ab8c7fd7.php on line 75
